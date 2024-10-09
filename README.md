@@ -31,8 +31,7 @@ To install and use `sysopctl`, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/
-   cd sysopctl
+   git clone https://github.com/Shorabh-Singh/XenonStack-Shorabh_Task
    ```
 
 2. **Make the Script Executable**:
